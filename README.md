@@ -503,39 +503,40 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 ## Season 28
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 28.00-CL-29915848 | https://gofile.io/d/uDTffQ |
+| 28.00-CL-29915848 | https://gofile.io/d/uDTffQ | https://fn-builds.repressoh.it/28.00-CL-29915848.7z
 | 28.01-CL-30106568 | Unavailable |
 | 28.01-CL-30313795 | Unavailable |
 | 28.10-CL-30676362 | Unavailable |
 | 28.10-CL-30835064 | Unavailable |
 | 28.20-CL-31165234 | https://fn-builds.repressoh.it/28.20-CL-31165234-Windows.zip |
 | 28.20-CL-31286935 | Unavailable |
-| 28.30-CL-31511038 | https://gofile.io/d/pIYSae |
+| 28.30-CL-31511038 | https://gofile.io/d/pIYSae | https://fn-builds.repressoh.it/28.30-CL-31511038.7z
 
 ## Season 29
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 29.00-CL-31978752 | Unavailable |
-| 29.00-CL-32116959 | https://gofile.io/d/cw0eee |
+| 29.00-CL-32116959 | https://gofile.io/d/cw0eee | https://fn-builds.repressoh.it/29.00-CL-32116959.7z
 | 29.01-CL-32291970 | Unavailable |
 | 29.10-CL-32391220 | Unavailable |
 | 29.10-CL-32567225 | Unavailable |
 | 29.20-CL-32716692 | Unavailable |
 | 29.30-CL-32982357 | Unavailable |
-| 29.40-CL-33291686 | Lost |
-| 29.40-CL-33502036 | Unavailable |
+| 29.40-CL-33291686 | https://fn-builds.repressoh.it/29.40-CL-33291686.rar |
+| 29.40-CL-33502036 | https://fn-builds.repressoh.it/29.40-CL-33502036.rar |
 | 29.40-CL-33629566 | Unavailable |
+| 29.40-CL-???????? | https://fn-builds.repressoh.it/29.40.rar
 
 ## Season 30
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 30.00-CL-33760522 | Unavailable |
-| 30.00-CL-33962396 | https://gofile.io/d/ZjRYts |
-| 30.10-CL-34184790 | Unavailable |
+| 30.00-CL-33962396 | https://gofile.io/d/ZjRYts | https://fn-builds.repressoh.it/30.00-CL-33962396.rar
+| 30.10-CL-34184790 | https://fn-builds.repressoh.it/30.10-CL-34184790.rar |
 | 30.10-CL-34261954 | Unavailable |
 | 30.10-CL-34399867 | Unavailable |
 | 30.20-CL-34488544 | Unavailable |
-| 30.20-CL-34597766 | Unavailable |
+| 30.20-CL-34597766 | https://fn-builds.repressoh.it/30.20-CL-34597766.rar |
 | 30.30-CL-34891016 | Unavailable |
 | 30.40-CL-35235494 | Unavailable |
 
@@ -558,7 +559,7 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | 32.00-CL-37770125 | Unavailable |
 | 32.10-CL-37958378 | Unavailable |
 | 32.11-CL-38202817 | https://drive.google.com/file/d/1X-K3cyFsqswUorH-2REQEKuLwh5oaEh8/view |
-| 32.11-CL-38371047 | https://www.dropbox.com/scl/fi/5djmb3ll3j1nghszjfsy0/32.11-CL-38371047.rar?rlkey=skt5ix1svq2xvj1kai8wf9jew&dl=1 |
+| 32.11-CL-38371047 | https://fn-builds.repressoh.it/32.11-CL-38371047.rar | https://www.dropbox.com/scl/fi/5djmb3ll3j1nghszjfsy0/32.11-CL-38371047.rar?rlkey=skt5ix1svq2xvj1kai8wf9jew&dl=1
 
 ## Season 33
 | Build | Download | Alternative Download | Alternative Download
@@ -566,7 +567,7 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | 33.00-CL-38324112 | Unavailable |
 | 33.00-CL-38504598 | Unavailable |
 | 33.10-CL-38630093 | Unavailable |
-| 33.11-CL-38773622 | https://www.dropbox.com/scl/fi/v043h0oe05axhb0v65ync/33.11-CL-38773622.rar?rlkey=jgx2j2x5mvkjt9ltirvgecvvh&dl=1 |
+| 33.11-CL-38773622 | https://fn-builds.repressoh.it/33.11-CL-38773622.rar |
 | 33.20-CL-39082670 | Unavailable |
 | 33.20-CL-39277041 | Unavailable |
 | 33.30-CL-39435251 | Unavailable |
@@ -578,7 +579,7 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | 34.00-CL-40085084 | Unavailable |
 | 34.00-CL-40228973 | Unavailable |
 | 34.00-CL-40398515 | Unavailable |
-| 34.00-CL-40446427 | Unavailable |
+| 34.00-CL-40446427 | https://fn-builds.repressoh.it/34.00-CL-40446427.rar |
 | 34.10-CL-40567068 | https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view |
 | 34.20-CL-40965447 | Manifest Available |
 | 34.21-CL-41092960 | Manifest Available |
@@ -589,7 +590,7 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 ## Season 35
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 35.00-CL-41994699 | https://archive.org/download/v35.00-CL-41994699/v35.00-CL-41994699.zip | https://ia601709.us.archive.org/25/items/v35.00-CL-41994699/v35.00-CL-41994699.zip
+| 35.00-CL-41994699 | https://archive.org/download/v35.00-CL-41994699/v35.00-CL-41994699.zip | https://ia601709.us.archive.org/25/items/v35.00-CL-41994699/v35.00-CL-41994699.zip | https://fn-builds.repressoh.it/35.00-CL-41994699.zip
 | 35.00-CL-42223143 | Manifest Available |
 | 35.10-CL-42476511 | Manifest Available |
 | 35.10-CL-42696140 | Manifest Available |
@@ -624,12 +625,12 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | 37.51-CL-46968237 | https://store-na-phx-4.gofile.io/download/web/6e8fdac5-b626-4fce-ae3b-4e605bb92499/37.51-CL-46968237.zip |
 
 ## Season 38
-| Build | Download | Alternative Download | Alternative Download
-|--------------|---------------|---------------|---------------|
-| 38.00-CL-47291259 | https://ai-repertoire.com/download.html?token=802ccf9aa26c4acc96ead076a7adb789 | https://archive.org/download/fn-v38-archive/38.00-CL-47291259.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47291259.zip
-| 38.00-CL-47722112 | https://ai-repertoire.com/download.html?token=3c27db31644f435ebee692b3321135cb | https://archive.org/download/fn-v38-archive/38.00-CL-47722112.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47722112.zip
-| 38.10-CL-47888945 | https://ai-repertoire.com/download.html?token=d459e7cf45f941e5856b22256d0f801a | https://archive.org/download/fn-v38-archive/38.10-CL-47888945.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.10-CL-47888945.zip
-| 38.11-CL-48390828 | https://ai-repertoire.com/download.html?token=e2cbf7bca4024b17919f74eef72128c4 | [1st Alternative Download](https://ai-repertoire.com/download.html?token=fa347d59525f42c8a88599e5ce3848ea) | [2nd Alternative Download](https://archive.org/download/fn-v38-archive/38.11-CL-48390828.zip) | [3rd Alternative Download](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.11-CL-48390828.zip) | https://fn-builds.repressoh.it/38.11-CL-48390828.zip
+| Build | Download | Alternative Download | Alternative Download | Alternative Download
+|--------------|---------------|---------------|---------------|---------------|
+| 38.00-CL-47291259 | https://ai-repertoire.com/download.html?token=802ccf9aa26c4acc96ead076a7adb789 | https://archive.org/download/fn-v38-archive/38.00-CL-47291259.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47291259.zip | https://fn-builds.repressoh.it/38.00-CL-47291259.zip
+| 38.00-CL-47722112 | https://ai-repertoire.com/download.html?token=3c27db31644f435ebee692b3321135cb | https://archive.org/download/fn-v38-archive/38.00-CL-47722112.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47722112.zip | https://fn-builds.repressoh.it/38.00-CL-47722112.zip
+| 38.10-CL-47888945 | https://ai-repertoire.com/download.html?token=d459e7cf45f941e5856b22256d0f801a | https://archive.org/download/fn-v38-archive/38.10-CL-47888945.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.10-CL-47888945.zip | https://fn-builds.repressoh.it/38.10-CL-47888945.zip
+| 38.11-CL-48390828 | https://ai-repertoire.com/download.html?token=e2cbf7bca4024b17919f74eef72128c4 | [1st Alternative Download](https://ai-repertoire.com/download.html?token=fa347d59525f42c8a88599e5ce3848ea) | [2nd Alternative Download](https://archive.org/download/fn-v38-archive/38.11-CL-48390828.zip) | [3rd Alternative Download](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.11-CL-48390828.zip) | [4th Alternative Download](https://fn-builds.repressoh.it/38.11-CL-48390828.zip)
 
 ## Season 39
 | Build | Download | Alternative Download | Alternative Download
