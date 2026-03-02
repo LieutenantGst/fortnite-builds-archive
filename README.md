@@ -498,7 +498,7 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 |--------------|---------------|---------------|---------------|
 | 27.00-CL-29072304 | https://cdn.cbn.lol/27.00 |
 | 27.10-CL-29552510 | https://cdn.cbn.lol/27.10 |
-| 27.11-CL-29739262 | https://gofile.io/d/MfJHqg |
+| 27.11-CL-29739262 | https://gofile.io/d/MfJHqg | https://pub-220306d029514fbba26c1ffc2ef76e3e.r2.dev/27.11.rar
 
 ## Season 28
 | Build | Download | Alternative Download | Alternative Download
