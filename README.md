@@ -479,8 +479,10 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | 25.00-CL-25909622 | Unavailable |
 | 25.10-CL-26000959 | Unavailable |
 | 25.11-CL-26171015 | https://r2.ploosh.dev/25.11.zip |
+| 25.11-CL-???????? | https://fn-builds.repressoh.it/25.11.zip
 | 25.20-CL-26474516 | Unavailable |
-| 25.20-CL-26629111 | https://ai-repertoire.com/download.html?token=8b7b7fe68d71489ca7222738f0e5f85e |
+| 25.20-CL-26629111 | https://ai-repertoire.com/download.html?token=8b7b7fe68d71489ca7222738f0e5f85e | 
+| 25.20-CL-???????? | https://fn-builds.repressoh.it/25.20.zip
 | 25.30-CL-26867995 | Unavailable |
 
 ## Season 26
@@ -490,15 +492,15 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | 26.00-CL-27424790 | Unavailable |
 | 26.10-CL-27681420 | Unavailable |
 | 26.20-CL-28096793 | Unavailable |
-| 26.30-CL-28509302 | https://r2.ploosh.dev/26.30.zip |
-| 26.30-CL-28688692 | http://r2.ploosh.dev/26.30-CL-28688692.zip |
+| 26.30-CL-28509302 | https://r2.ploosh.dev/26.30.zip | https://fn-builds.repressoh.it/26.30-CL-28509302.zip
+| 26.30-CL-28688692 | http://r2.ploosh.dev/26.30-CL-28688692.zip | https://fn-builds.repressoh.it/26.30-CL-28688692.zip
 
 ## Season 27
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 27.00-CL-29072304 | https://cdn.cbn.lol/27.00 |
-| 27.10-CL-29552510 | https://cdn.cbn.lol/27.10 |
-| 27.11-CL-29739262 | https://gofile.io/d/MfJHqg | https://pub-220306d029514fbba26c1ffc2ef76e3e.r2.dev/27.11.rar (Less GB than the other)
+| 27.00-CL-29072304 | https://cdn.cbn.lol/27.00 | https://fn-builds.repressoh.it/27.00-CL-29072304.zip
+| 27.10-CL-29552510 | https://cdn.cbn.lol/27.10 | https://fn-builds.repressoh.it/27.10-CL-29552510.zip
+| 27.11-CL-29739262 | https://gofile.io/d/MfJHqg | https://pub-220306d029514fbba26c1ffc2ef76e3e.r2.dev/27.11.rar (Less GB than the other) | https://fn-builds.repressoh.it/27.11-CL-29739262.7z
 
 ## Season 28
 | Build | Download | Alternative Download | Alternative Download
