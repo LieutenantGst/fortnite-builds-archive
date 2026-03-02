@@ -508,7 +508,7 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | 28.01-CL-30313795 | Unavailable |
 | 28.10-CL-30676362 | Unavailable |
 | 28.10-CL-30835064 | Unavailable |
-| 28.20-CL-31165234 | Unavailable |
+| 28.20-CL-31165234 | https://fn-builds.repressoh.it/28.20-CL-31165234-Windows.zip |
 | 28.20-CL-31286935 | Unavailable |
 | 28.30-CL-31511038 | https://gofile.io/d/pIYSae |
 
@@ -547,7 +547,7 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | 31.20-CL-36253989 | https://drive.google.com/file/d/1zzgcJTe4EtMBFB5yP-M5uvm88SJo6HkK/view |
 | 31.20-CL-36348034 | Unavailable |
 | 31.30-CL-36600465 | Unavailable |
-| 31.40-CL-36874825 | Unavailable |
+| 31.40-CL-36874825 | https://cold-na-phx-4.gofile.io/download/web/0ccf9adf-7351-4994-84e4-f4459cd890b6/Fortnite%2031.40.zip |
 | 31.40-CL-37076506 | Unavailable |
 | 31.41-CL-37324991 | https://gofile.io/d/5KnfUv |
 
@@ -629,7 +629,7 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | 38.00-CL-47291259 | https://ai-repertoire.com/download.html?token=802ccf9aa26c4acc96ead076a7adb789 | https://archive.org/download/fn-v38-archive/38.00-CL-47291259.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47291259.zip
 | 38.00-CL-47722112 | https://ai-repertoire.com/download.html?token=3c27db31644f435ebee692b3321135cb | https://archive.org/download/fn-v38-archive/38.00-CL-47722112.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47722112.zip
 | 38.10-CL-47888945 | https://ai-repertoire.com/download.html?token=d459e7cf45f941e5856b22256d0f801a | https://archive.org/download/fn-v38-archive/38.10-CL-47888945.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.10-CL-47888945.zip
-| 38.11-CL-48390828 | https://ai-repertoire.com/download.html?token=e2cbf7bca4024b17919f74eef72128c4 | https://ai-repertoire.com/download.html?token=fa347d59525f42c8a88599e5ce3848ea | https://archive.org/download/fn-v38-archive/38.11-CL-48390828.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.11-CL-48390828.zip
+| 38.11-CL-48390828 | https://ai-repertoire.com/download.html?token=e2cbf7bca4024b17919f74eef72128c4 | [1st Alternative Download](https://ai-repertoire.com/download.html?token=fa347d59525f42c8a88599e5ce3848ea) | [2nd Alternative Download](https://archive.org/download/fn-v38-archive/38.11-CL-48390828.zip) | [3rd Alternative Download](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.11-CL-48390828.zip) | https://fn-builds.repressoh.it/38.11-CL-48390828.zip
 
 ## Season 39
 | Build | Download | Alternative Download | Alternative Download
