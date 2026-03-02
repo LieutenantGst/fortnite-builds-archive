@@ -584,12 +584,12 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | 34.21-CL-41092960 | Manifest Available |
 | 34.30-CL-41387772 | Manifest Available |
 | 34.30-CL-41588354 | Manifest Available |
-| 34.40-CL-41753727 | Manifest Available |
+| 34.40-CL-41753727 | https://cold7.gofile.io/download/web/664392ee-3a98-490d-bb87-18b865c9a784/v34.40-CL-41753727.rar |
 
 ## Season 35
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 35.00-CL-41994699 | https://archive.org/download/v35.00-CL-41994699/v35.00-CL-41994699.zip |
+| 35.00-CL-41994699 | https://archive.org/download/v35.00-CL-41994699/v35.00-CL-41994699.zip | https://ia601709.us.archive.org/25/items/v35.00-CL-41994699/v35.00-CL-41994699.zip
 | 35.00-CL-42223143 | Manifest Available |
 | 35.10-CL-42476511 | Manifest Available |
 | 35.10-CL-42696140 | Manifest Available |
@@ -599,7 +599,7 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 ## Season 36
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 36.00-CL-43214806 | Manifest Available |
+| 36.00-CL-43214806 | https://cold8.gofile.io/download/web/424d6faa-830d-40ba-8ee7-fbb6ff81eba1/36.30-CL-44367537.zip |
 | 36.00-CL-43339403 | Manifest Available |
 | 36.10-CL-43486998 | Manifest Available |
 | 36.10-CL-43713507 | Manifest Available |
@@ -621,15 +621,15 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | 37.31-CL-46047957 | Manifest Available |
 | 37.40-CL-46295673 | Manifest Available |
 | 37.50-CL-46578011 | Manifest Available |
-| 37.51-CL-46968237 | Manifest Available |
+| 37.51-CL-46968237 | https://store-na-phx-4.gofile.io/download/web/6e8fdac5-b626-4fce-ae3b-4e605bb92499/37.51-CL-46968237.zip |
 
 ## Season 38
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 38.00-CL-47291259 | https://ai-repertoire.com/download.html?token=802ccf9aa26c4acc96ead076a7adb789 | https://archive.org/download/fn-v38-archive/38.00-CL-47291259.zip |
-| 38.00-CL-47722112 | https://ai-repertoire.com/download.html?token=3c27db31644f435ebee692b3321135cb | https://archive.org/download/fn-v38-archive/38.00-CL-47722112.zip |
-| 38.10-CL-47888945 | https://ai-repertoire.com/download.html?token=d459e7cf45f941e5856b22256d0f801a | https://archive.org/download/fn-v38-archive/38.10-CL-47888945.zip |
-| 38.11-CL-48390828 | https://ai-repertoire.com/download.html?token=e2cbf7bca4024b17919f74eef72128c4 | https://ai-repertoire.com/download.html?token=fa347d59525f42c8a88599e5ce3848ea | https://archive.org/download/fn-v38-archive/38.11-CL-48390828.zip |
+| 38.00-CL-47291259 | https://ai-repertoire.com/download.html?token=802ccf9aa26c4acc96ead076a7adb789 | https://archive.org/download/fn-v38-archive/38.00-CL-47291259.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47291259.zip
+| 38.00-CL-47722112 | https://ai-repertoire.com/download.html?token=3c27db31644f435ebee692b3321135cb | https://archive.org/download/fn-v38-archive/38.00-CL-47722112.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47722112.zip
+| 38.10-CL-47888945 | https://ai-repertoire.com/download.html?token=d459e7cf45f941e5856b22256d0f801a | https://archive.org/download/fn-v38-archive/38.10-CL-47888945.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.10-CL-47888945.zip
+| 38.11-CL-48390828 | https://ai-repertoire.com/download.html?token=e2cbf7bca4024b17919f74eef72128c4 | https://ai-repertoire.com/download.html?token=fa347d59525f42c8a88599e5ce3848ea | https://archive.org/download/fn-v38-archive/38.11-CL-48390828.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.11-CL-48390828.zip
 
 ## Season 39
 | Build | Download | Alternative Download | Alternative Download
