@@ -3,7 +3,7 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 ## Credits to:
 - Llamaqwerty for some of the main builds added
 - jalen for most the builds that are on here (i think, im still not sure correct me if im wrong)
-- Pakked for builds 38.11, 35.00, 
+- Pakked for some recent builds and og builds
 - electric_dragon for builds 38.10, 38.00
 - fn-builds.repressoh.it for a LOT of lost builds which could not be found
 - A Real Potato for build 31.40
