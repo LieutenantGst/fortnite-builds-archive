@@ -605,6 +605,8 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | 39.30-CL-49874243 | https://store-na-phx-1.gofile.io/download/web/6e88416a-d452-4a58-8e8d-4f4d2f17cf74/39.30-CL-49874243.zip
 | 39.40-CL-50577083 | https://pastabillites.to/d/b07n6bokfyw4?v=wSJqG4-dVNkSUJb4Iw0PrU32VzeUo7yUxiEGp67nyWNc_9dVrNFn8hnNceUr8EglN9kxtgFkAXHynPNzPc2BMBfsju51cEz-7TT9zdpH1i7MG9I3ivq1GI7U3hkb6Q
 | 39.50-CL-50854790 | https://pastabillites.to/d/2qzcb3d27h5e?v=ZgVywtaCX3eYLzGYQZMxNhk3DBgaRG1nXY2CmV5l2wSs3qOYZ035tSK_gmJ1Xv9_Vl7TH9XkkPjZnn8qBuM8uh56BvsnlG13DuJ72JjW2Ha0F2AfisSe5ixivMcVwQ
+<details>
+  <summary><h2>Other</h2></summary>
 
 ## Other
 | Build | Download | Alternative Download | Alternative Download
@@ -656,3 +658,8 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | OT11.1 (4.16.0-???????) | Lost |
 | OT11.?? (4.16.0-3502004) | Lost |
 | OT11.?? (4.16.0-3502071) | Lost |
+
+## Manifest
+| Polynite | https://github.com/polynite/fn-releases
+
+</details>
