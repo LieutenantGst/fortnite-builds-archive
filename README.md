@@ -363,12 +363,12 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | 20.00-CL-19458861 | https://public.simplyblk.xyz/20.00.rar | https://r2.kovryn.xyz/20.00-CL-19458861.7z |
 | 20.00-CL-19532288 | Unavailable |
 | 20.10-CL-19598943 | https://public.simplyblk.xyz/20.10.zip |
-| 20.20-CL-19751212 | https://public.simplyblk.xyz/20.20.zip |
+| 20.20-CL-19751212 | https://public.simplyblk.xyz/20.20.zip | https://cdn.cbn.lol/20.20 | https://fn-builds.repressoh.it/20.20.zip
 | 20.20-CL-19896998 | Unavailable |
-| 20.30-CL-19950687 | https://cdn.cbn.lol/20.30 |
+| 20.30-CL-19950687 | https://cdn.cbn.lol/20.30 | https://fn-builds.repressoh.it/20.30.zip
 | 20.30-CL-20037261 | Unavailable |
 | 20.40-CL-20175294 | Lost |
-| 20.40-CL-20244966 | https://public.simplyblk.xyz/20.40.zip |
+| 20.40-CL-20244966 | https://public.simplyblk.xyz/20.40.zip | https://fn-builds.repressoh.it/20.40-CL-20244966.zip | https://cdn.cbn.lol/20.40
 
 ## Season 21
 | Build | Download | Alternative Download | Alternative Download
