@@ -40,13 +40,13 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 1.7.2 (Release-Cert-CL-3700114) | https://public.simplyblk.xyz/1.7.2.zip | https://builds.rebootfn.org/1.7.2.zip | https://drive.google.com/file/d/1A3Y2werWd5mlbp2MlUeP8NL5sEXy8lOn/view |
 
 ## Season 1
-| Build | Download | Alternative Download | Alternative Download
-|--------------|---------------|---------------|---------------|
+| Build | Download | Alternative Download | Alternative Download | Alternative Download
+|--------------|---------------|---------------|---------------|---------------|
 | 1.8.0 (Release-Live-CL-3724489) | https://public.simplyblk.xyz/1.8.rar | https://builds.rebootfn.org/1.8.rar | https://archive.org/download/1.8_20241223/1.8.rar |
-| 1.8.1 (Release-Live-CL-3729133) | https://public.simplyblk.xyz/1.8.1.rar | https://builds.rebootfn.org/1.8.1.rar | https://drive.google.com/file/d/1LRDuxDPIOLwW0rXu0tbQL8f1s_sCHm_K/view |
+| 1.8.1 (Release-Live-CL-3729133) | https://public.simplyblk.xyz/1.8.1.rar | https://builds.rebootfn.org/1.8.1.rar | https://drive.google.com/file/d/1LRDuxDPIOLwW0rXu0tbQL8f1s_sCHm_K/view | https://archive.org/download/fortnite-release-1.8.1-cl-3729133/%2B%2BFortnite%2BRelease-1.8.1-CL-3729133.rar
 | 1.8.2 (Release-Live-CL-3741772) | https://public.simplyblk.xyz/1.8.2.rar | https://builds.rebootfn.org/1.8.2.rar | https://archive.org/download/fortnite-release-1.8.2-cl-3741772/%2B%2BFortnite%2BRelease-1.8.2-CL-3741772.rar
-| 1.9.0 (Release-Live-CL-3757339) | https://public.simplyblk.xyz/1.9.rar | https://builds.rebootfn.org/1.9.rar |
-| 1.9.1 (Release-Cert-CL-3775276) | https://public.simplyblk.xyz/1.9.1.rar | https://builds.rebootfn.org/1.9.1.rar |
+| 1.9.0 (Release-Live-CL-3757339) | https://public.simplyblk.xyz/1.9.rar | https://builds.rebootfn.org/1.9.rar | https://archive.org/download/fortnite-release-1.9-cl-3757339/%2B%2BFortnite%2BRelease-1.9-CL-3757339.zip
+| 1.9.1 (Release-Cert-CL-3775276) | https://public.simplyblk.xyz/1.9.1.rar | https://builds.rebootfn.org/1.9.1.rar | https://archive.org/download/fortnite-release-1.9.1-cl-3775276/%2B%2BFortnite%2BRelease-1.9.1-CL-3775276.zip
 | Unknown Build (Release-Cert-CL-3785438) | Lost |
 | 1.10.0 (Release-Cert-CL-3790078) | https://public.simplyblk.xyz/1.10.rar | https://builds.rebootfn.org/1.10.rar | https://fn-builds.repressoh.it/1.10.rar
 
@@ -129,7 +129,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 6.22 (6.22-CL-4541220) | Lost |
 | 6.22.1 (6.22-CL-4543176) | https://public.simplyblk.xyz/6.22.rar | https://builds.rebootfn.org/6.22.rar |
 | 6.30 (6.30-CL-4579044) | https://public.simplyblk.xyz/6.30.rar | https://builds.rebootfn.org/6.30.rar |
-| 6.31 (6.31-CL-4573279) | https://public.simplyblk.xyz/6.31.rar | https://builds.rebootfn.org/6.31.rar |
+| 6.31 (6.31-CL-4573279) | https://public.simplyblk.xyz/6.31.rar | https://builds.rebootfn.org/6.31.rar | https://archive.org/download/Fortnite-6.31-CL-4573279.rar/6.31-CL-4573279.rar
 
 ## Season 7
 | Build | Download | Alternative Download | Alternative Download
@@ -158,14 +158,14 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 8.10.1 (8.10-CL-5372009) | Lost |
 | 8.11 (8.11-CL-5442615) | Lost |
 | 8.20 (8.20-CL-5547534) | Lost |
-| 8.20.1 (8.20-CL-5625478) | https://public.simplyblk.xyz/8.20.rar | https://builds.rebootfn.org/8.20.rar |
+| 8.20.1 (8.20-CL-5625478) | https://public.simplyblk.xyz/8.20.rar | https://builds.rebootfn.org/8.20.rar | https://archive.org/download/fortnite-8.20/Fortnite%208.20.rar
 | 8.30 (8.30-CL-5793395) | https://public.simplyblk.xyz/8.30.rar | https://builds.rebootfn.org/8.30.rar |
 | 8.30.1 (8.30-CL-5822617) | Lost |
 | 8.30.2 (8.30-CL-5831510) | Lost |
 | 8.40 (8.40-CL-5914491) | Lost |
 | 8.40.1 (8.40-CL-6005771) | https://public.simplyblk.xyz/8.40.zip | https://builds.rebootfn.org/8.40.zip | https://archive.org/download/Fortnite-8.40-CL-6005771.zip/8.40-CL-6005771.zip |
 | 8.50 (8.50-CL-6058028) | https://public.simplyblk.xyz/8.50.zip | https://builds.rebootfn.org/8.50.zip |
-| 8.51 (8.51-CL-6165369) | https://public.simplyblk.xyz/8.51.rar | https://builds.rebootfn.org/8.51.rar |
+| 8.51 (8.51-CL-6165369) | https://public.simplyblk.xyz/8.51.rar | https://builds.rebootfn.org/8.51.rar | https://archive.org/download/fortnite-release-8.51-cl-6165369/%2B%2BFortnite%2BRelease-8.51-CL-6165369.zip
 
 ## Season 9
 | Build | Download | Alternative Download | Alternative Download
@@ -248,7 +248,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 |--------------|---------------|---------------|---------------|
 | 13.00-CL-13649278 | https://public.simplyblk.xyz/13.00.rar |
 | 13.00-CL-13696059 | Lost |
-| 13.00-CL-13715544 | Lost |
+| 13.00-CL-13715544 | https://archive.org/download/fortnite-cl-13715544/Fortnite-cl-13715544.7z |
 | 13.20-CL-13777676 | https://public.simplyblk.xyz/13.20.rar |
 | 13.30-CL-13884634 | https://public.simplyblk.xyz/13.30.rar |
 | 13.40-CL-14008768 | Lost |
@@ -421,8 +421,8 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 23.50-CL-24441668 | https://public.simplyblk.xyz/23.50.zip | https://titanac.xyz/23.50.rar | https://r2.kovryn.xyz/23.50.rar | https://fn-builds.repressoh.it/23.50.zip
 
 ## Season 24
-| Build | Download | Alternative Download | Alternative Download
-|--------------|---------------|---------------|---------------|
+| Build | Download | Alternative Download | Alternative Download | Alternative Download
+|--------------|---------------|---------------|---------------|---------------|
 | 24.00-CL-24554913 | https://gofile.io/d/GOSBx4 | https://fn-builds.repressoh.it/24.00-CL-24554913.zip | https://store3.gofile.io/download/web/2cb72177-feaa-4466-a3d9-a1812eca1337/24.00-CL-24554913.zip
 | 24.01-CL-24672685 | Unavailable |
 | 24.01-CL-24757023 | Lost |
@@ -430,8 +430,9 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 24.10-CL-24903530 | Unavailable |
 | 24.20-CL-24939793 | https://r2.ploosh.dev/24.20.zip | https://r2.kovryn.xyz/24.20.zip | https://cdn.cbn.lol/24.20 | https://fn-builds.repressoh.it/24.20-CL-24939793.rar
 | 24.20-CL-25019967 | Unavailable |
+| 24.24+UEFN (idk if ts works since its 3.4gb) | https://archive.org/download/2420-uefn/2420UEFN.zip
 | 24.20-CL-25058254 | Unavailable |
-| 24.20-CL-25156858 | https://gofile.io/d/cw0eee | https://fn-builds.repressoh.it/24.20-CL-25156858.zip | https://store10.gofile.io/download/web/0390fe8d-f51c-4e5e-9699-05b3319d8562/24.20-CL-25156858.zip
+| 24.20-CL-25156858 | https://gofile.io/d/cw0eee | https://fn-builds.repressoh.it/24.20-CL-25156858.zip | https://store10.gofile.io/download/web/0390fe8d-f51c-4e5e-9699-05b3319d8562/24.20-CL-25156858.zip | https://archive.org/download/24.20-cl-25156858/24.20-CL-25156858.zip
 | 24.30-CL-25210886 | Unavailable |
 | 24.30-CL-25347382 | Unavailable |
 | 24.40-CL-25420516 | Unavailable |
@@ -467,8 +468,8 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 27.11-CL-29739262 | https://gofile.io/d/MfJHqg | https://pub-220306d029514fbba26c1ffc2ef76e3e.r2.dev/27.11.rar (Less GB than the others) | https://fn-builds.repressoh.it/27.11-CL-29739262.7z
 
 ## Season 28
-| Build | Download | Alternative Download | Alternative Download
-|--------------|---------------|---------------|---------------|
+| Build | Download | Alternative Download | Alternative Download | Alternative Download
+|--------------|---------------|---------------|---------------|---------------|
 | 28.00-CL-29915848 | https://gofile.io/d/uDTffQ | https://fn-builds.repressoh.it/28.00-CL-29915848.7z
 | 28.01-CL-30106568 | Unavailable |
 | 28.01-CL-30313795 | Unavailable |
@@ -476,7 +477,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 28.10-CL-30835064 | https://buzzheavier.com/kxgbxvsrg4yh |
 | 28.20-CL-31165234 | https://fn-builds.repressoh.it/28.20-CL-31165234-Windows.zip | https://buzzheavier.com/hobg7favbekg | https://gofile.io/d/e9BQ6I
 | 28.20-CL-31286935 | https://cold4.gofile.io/download/web/3b372482-5a4d-4102-a153-c4e29faa5626/c5s1.zip |
-| 28.30-CL-31511038 | https://gofile.io/d/pIYSae | https://fn-builds.repressoh.it/28.30-CL-31511038.7z | https://cdn.astralfn.xyz/28.30-CL-31511038.7z
+| 28.30-CL-31511038 | https://gofile.io/d/pIYSae | https://fn-builds.repressoh.it/28.30-CL-31511038.7z | https://cdn.astralfn.xyz/28.30-CL-31511038.7z | https://archive.org/download/28.30-cl-31511038.7z/28.30-CL-31511038.7z
 
 ## Season 29
 | Build | Download | Alternative Download | Alternative Download
@@ -533,7 +534,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 33.00-CL-38504598 | Unavailable |
 | 33.10-CL-38630093 | Unavailable |
 | 33.11-CL-38773622 | https://fn-builds.repressoh.it/33.11-CL-38773622.rar |
-| 33.20-CL-39082670 | Unavailable |
+| 33.20-CL-39082670 | https://archive.org/download/fortniteBuild33.20/Fortnite.7z |
 | 33.20-CL-39277041 | Unavailable |
 | 33.30-CL-39435251 | Unavailable |
 | 33.30-CL-39768313 | Unavailable |
@@ -600,10 +601,14 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 ## Season 39
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 39.00-CL-48444883 | https://cold-na-phx-5.gofile.io/download/web/073f610e-e5b0-4df7-82a5-2f89ab2d4a18/v39.00-CL-48444883.zip 
-| 39.10-CL-48971054 | https://pastabillites.to/d/d3l3pn7cmhwn?v=s3GGffN356lTbJxaUPxVwFWbAsfmMbj1oI_1qHHMycku8arEiurKnstdndNngm9KDj2JRahOcMHgWSRBLUk4DfcuYTKoJXrbppReupTTlXqpAtKpprmHGgsH6_x2ww
-| 39.11-CL-49242330 | https://pastabillites.to/d/onbragq0eyr6?v=j86RrhrxqPiiGcidWd6AtaIZlU_GotyXKEJYxgglnB55CrTak8DRfGfNfFbV6_3Pdinzf4S1y8cHRvnlaYcTHdB6napRDJ7jaARKPdfzWku631b9Tr6rZHwb4j9j
-| 39.20-CL-49564179 | https://store-na-phx-1.gofile.io/download/web/29911236-fa7a-457d-9a86-0c025d8525c8/39.20-CL-49564179.zip
-| 39.30-CL-49874243 | https://store-na-phx-1.gofile.io/download/web/6e88416a-d452-4a58-8e8d-4f4d2f17cf74/39.30-CL-49874243.zip
+| 39.00-CL-48444883 | https://archive.org/download/fn-v39-archive/39.00-CL-48444883.zip | https://cold-na-phx-5.gofile.io/download/web/073f610e-e5b0-4df7-82a5-2f89ab2d4a18/v39.00-CL-48444883.zip 
+| 39.00-CL-48801071| https://archive.org/download/fn-v39-archive/39.00-CL-48801071.zip
+| 39.10-CL-48971054 | https://archive.org/download/fn-v39-archive/39.10-CL-48971054.zip | https://pastabillites.to/d/d3l3pn7cmhwn?v=s3GGffN356lTbJxaUPxVwFWbAsfmMbj1oI_1qHHMycku8arEiurKnstdndNngm9KDj2JRahOcMHgWSRBLUk4DfcuYTKoJXrbppReupTTlXqpAtKpprmHGgsH6_x2ww
+| 39.11-CL-CL-49241099 | https://archive.org/download/fn-v39-archive/39.11-CL-49241099.zip
+| 39.11-CL-49242330 | https://archive.org/download/fn-v39-archive/39.11-CL-49242330.zip | https://pastabillites.to/d/onbragq0eyr6?v=j86RrhrxqPiiGcidWd6AtaIZlU_GotyXKEJYxgglnB55CrTak8DRfGfNfFbV6_3Pdinzf4S1y8cHRvnlaYcTHdB6napRDJ7jaARKPdfzWku631b9Tr6rZHwb4j9j
+| 39.20-CL-49564179 | https://archive.org/download/fn-v39-archive/39.20-CL-49564179.zip | https://store-na-phx-1.gofile.io/download/web/29911236-fa7a-457d-9a86-0c025d8525c8/39.20-CL-49564179.zip
+| 39.30-CL-49874243 | https://archive.org/download/fn-v39-archive/39.30-CL-49874243.zip | https://store-na-phx-1.gofile.io/download/web/6e88416a-d452-4a58-8e8d-4f4d2f17cf74/39.30-CL-49874243.zip
+| 39.30-CL-50141518 | https://archive.org/download/fn-v39-archive/39.30-CL-50141518.zip
 | 39.40-CL-50577083 | https://pastabillites.to/d/b07n6bokfyw4?v=wSJqG4-dVNkSUJb4Iw0PrU32VzeUo7yUxiEGp67nyWNc_9dVrNFn8hnNceUr8EglN9kxtgFkAXHynPNzPc2BMBfsju51cEz-7TT9zdpH1i7MG9I3ivq1GI7U3hkb6Q
-| 39.50-CL-50854790 | https://pastabillites.to/d/2qzcb3d27h5e?v=ZgVywtaCX3eYLzGYQZMxNhk3DBgaRG1nXY2CmV5l2wSs3qOYZ035tSK_gmJ1Xv9_Vl7TH9XkkPjZnn8qBuM8uh56BvsnlG13DuJ72JjW2Ha0F2AfisSe5ixivMcVwQ
+| 39.40-CL-50341043 | https://archive.org/download/fn-v39-archive/39.40-CL-50341043.zip
+| 39.50-CL-50854790 | https://archive.org/download/fn-v39-archive/39.50-CL-50854790.zip | https://pastabillites.to/d/2qzcb3d27h5e?v=ZgVywtaCX3eYLzGYQZMxNhk3DBgaRG1nXY2CmV5l2wSs3qOYZ035tSK_gmJ1Xv9_Vl7TH9XkkPjZnn8qBuM8uh56BvsnlG13DuJ72JjW2Ha0F2AfisSe5ixivMcVwQ
