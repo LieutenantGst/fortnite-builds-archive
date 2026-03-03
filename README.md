@@ -333,38 +333,38 @@ the other stuff section has been moved to the 2nd branch, if you can find it jus
 ## Season 18
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 18.00-CL-17468642 | https://public.simplyblk.xyz/18.00.rar | https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view |
+| 18.00-CL-17468642 | https://public.simplyblk.xyz/18.00.rar | https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view | https://fn-builds.repressoh.it/18.00.rar
 | 18.00-CL-17519952 | Unavailable |
-| 18.10-CL-17619277 | https://www.dropbox.com/scl/fi/lz5z5a1ue3pxfdokii2qv/18.10-CL-17619277.7z?rlkey=rhh3hnfsfgurlrs4lhundax7b&dl=1 |
-| 18.10-CL-17661844 | https://cdn.cbn.lol/18.10 |
-| 18.20-CL-17745267 | https://cdn.cbn.lol/18.20 |
-| 18.20-CL-17792290 | https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z |
-| 18.21-CL-17811397 | https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z |
-| 18.30-CL-17882303 | https://public.simplyblk.xyz/18.30.7z |
-| 18.40-CL-18163738 | https://public.simplyblk.xyz/18.40.zip |
+| 18.10-CL-17619277 | https://www.dropbox.com/scl/fi/lz5z5a1ue3pxfdokii2qv/18.10-CL-17619277.7z?rlkey=rhh3hnfsfgurlrs4lhundax7b&dl=1 | https://fn-builds.repressoh.it/18.10-CL-17619277.7z
+| 18.10-CL-17661844 | https://cdn.cbn.lol/18.10 | https://fn-builds.repressoh.it/18.10-CL-17661844.7z
+| 18.20-CL-17745267 | https://cdn.cbn.lol/18.20 | https://fn-builds.repressoh.it/18.20-CL-17745267.zip
+| 18.20-CL-17792290 | https://download.fn-archive.com/FortniteClient-18.20-CL-17792290.7z | https://fn-builds.repressoh.it/18.20-CL-17792290.7z
+| 18.21-CL-17811397 | https://download.fn-archive.com/FortniteClient-18.21-CL-17811397.7z | https://fn-builds.repressoh.it/FortniteClient-18.21-CL-17811397.7z | https://fn-builds.repressoh.it/18.21-CL-17811397.7z
+| 18.30-CL-17882303 | https://public.simplyblk.xyz/18.30.7z | https://fn-builds.repressoh.it/18.30.7z
+| 18.40-CL-18163738 | https://public.simplyblk.xyz/18.40.zip | https://fn-builds.repressoh.it/18.40-CL-18163738-Windows.zip
 
 ## Season 19
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 19.00-CL-18335626 | https://public.simplyblk.xyz/19.01.zip | https://archive.org/compress/fortnite-19.01.7z |
+| 19.00-CL-18335626 | https://public.simplyblk.xyz/19.01.zip | https://archive.org/compress/fortnite-19.01.7z | https://fn-builds.repressoh.it/19.00.zip
 | 19.00-CL-18380290 | Unavailable |
 | 19.01-CL-18415863 | Lost |
-| 19.01-CL-18489740 | https://r2.ploosh.dev/19.01.zip | https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip |
+| 19.01-CL-18489740 | https://r2.ploosh.dev/19.01.zip | https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip | https://fn-builds.repressoh.it/19.01-CL-18489740.zip
 | 19.10-CL-18581131 | Lost |
 | 19.10-CL-18640491 | Lost |
-| 19.10-CL-18675304 | https://public.simplyblk.xyz/19.10.rar | 
+| 19.10-CL-18675304 | https://public.simplyblk.xyz/19.10.rar | https://fn-builds.repressoh.it/19.10.rar | 
 | 19.20-CL-18775446 | Unavailable |
 | 19.30-CL-18948597 | Unavailable |
-| 19.30-CL-19027703 | https://public.simplyblk.xyz/19.30.rar |
+| 19.30-CL-19027703 | https://public.simplyblk.xyz/19.30.rar | https://fn-builds.repressoh.it/19.30-CL-19027703.rar
 | 19.40-CL-19167615 | Unavailable |
-| 19.40-CL-19215531 | https://public.simplyblk.xyz/19.40.7z | https://www.dropbox.com/scl/fi/yh62d1ay5v87deks1g53d/19.40.zip?rlkey=y6fo0ktol2ayf7wpdw1qooj3z&dl=1 |
+| 19.40-CL-19215531 | https://public.simplyblk.xyz/19.40.7z | https://www.dropbox.com/scl/fi/yh62d1ay5v87deks1g53d/19.40.zip?rlkey=y6fo0ktol2ayf7wpdw1qooj3z&dl=1 | https://fn-builds.repressoh.it/19.40.7z
 
 ## Season 20
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 20.00-CL-19458861 | https://public.simplyblk.xyz/20.00.rar | https://r2.kovryn.xyz/20.00-CL-19458861.7z |
+| 20.00-CL-19458861 | https://public.simplyblk.xyz/20.00.rar | https://r2.kovryn.xyz/20.00-CL-19458861.7z | https://fn-builds.repressoh.it/20.00.rar
 | 20.00-CL-19532288 | Unavailable |
-| 20.10-CL-19598943 | https://public.simplyblk.xyz/20.10.zip |
+| 20.10-CL-19598943 | https://public.simplyblk.xyz/20.10.zip | https://fn-builds.repressoh.it/20.10.zip
 | 20.20-CL-19751212 | https://public.simplyblk.xyz/20.20.zip | https://cdn.cbn.lol/20.20 | https://fn-builds.repressoh.it/20.20.zip
 | 20.20-CL-19896998 | Unavailable |
 | 20.30-CL-19950687 | https://cdn.cbn.lol/20.30 | https://fn-builds.repressoh.it/20.30.zip
@@ -495,7 +495,7 @@ the other stuff section has been moved to the 2nd branch, if you can find it jus
 ## Season 30
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 30.00-CL-33760522 | Unavailable |
+| 30.00-CL-33760522 | Lost |
 | 30.00-CL-33962396 | https://gofile.io/d/ZjRYts | https://fn-builds.repressoh.it/30.00-CL-33962396.rar
 | 30.10-CL-34184790 | https://fn-builds.repressoh.it/30.10-CL-34184790.rar |
 | 30.10-CL-34261954 | Unavailable |
@@ -515,7 +515,7 @@ the other stuff section has been moved to the 2nd branch, if you can find it jus
 | 31.30-CL-36600465 | Unavailable |
 | 31.40-CL-36874825 | https://cold-na-phx-4.gofile.io/download/web/0ccf9adf-7351-4994-84e4-f4459cd890b6/Fortnite%2031.40.zip |
 | 31.40-CL-37076506 | Unavailable |
-| 31.41-CL-37324991 | https://gofile.io/d/5KnfUv |
+| 31.41-CL-37324991 | https://store-na-phx-4.gofile.io/download/web/32cce581-05c7-4f1f-aad3-a21ab207b418/%2B%2BFortnite%2BRelease-31.41-CL-37324991-Windows.rar |https://gofile.io/d/5KnfUv |
 
 ## Season 32
 | Build | Download | Alternative Download | Alternative Download
@@ -590,8 +590,8 @@ the other stuff section has been moved to the 2nd branch, if you can find it jus
 | 37.51-CL-46968237 | https://store-na-phx-4.gofile.io/download/web/6e8fdac5-b626-4fce-ae3b-4e605bb92499/37.51-CL-46968237.zip |
 
 ## Season 38
-| Build | Download | Alternative Download | Alternative Download | Alternative Download
-|--------------|---------------|---------------|---------------|---------------|
+| Build | Download | Alternative Download | Alternative Download | Alternative Download | Alternative Download
+|--------------|---------------|---------------|---------------|---------------|---------------|
 | 38.00-CL-47291259 | https://ai-repertoire.com/download.html?token=802ccf9aa26c4acc96ead076a7adb789 | https://archive.org/download/fn-v38-archive/38.00-CL-47291259.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47291259.zip | https://fn-builds.repressoh.it/38.00-CL-47291259.zip
 | 38.00-CL-47722112 | https://ai-repertoire.com/download.html?token=3c27db31644f435ebee692b3321135cb | https://archive.org/download/fn-v38-archive/38.00-CL-47722112.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47722112.zip | https://fn-builds.repressoh.it/38.00-CL-47722112.zip
 | 38.10-CL-47888945 | https://ai-repertoire.com/download.html?token=d459e7cf45f941e5856b22256d0f801a | https://archive.org/download/fn-v38-archive/38.10-CL-47888945.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.10-CL-47888945.zip | https://fn-builds.repressoh.it/38.10-CL-47888945.zip
