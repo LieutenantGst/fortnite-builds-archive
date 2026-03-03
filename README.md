@@ -1,52 +1,13 @@
 Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add build links that have not been added by llama, but i'll keep updating this.
 
+## Credits to:
+Llamaqwerty for some of the main builds added
+jalen for most recent builds
+Pakked for builds 38.11, 35.00, 
+electric_dragon for builds 38.10, 38.00
+fn-builds.repressoh.it for a LOT of lost builds which could not be found
 
-## Online Testing
-| Build | Download | Alternative Download | Alternative Download
-|--------------|---------------|---------------|---------------|
-| OT1 (4.?.0-???????) | Lost |
-| OT1 (4.7.0-2479600) | Lost |
-| OT3 (4.8.0-2604755) | Lost |
-| OT3.1 (4.?.0-???????) | Lost |
-| OT3.2 (4.?.0-???????) | Lost |
-| OT3.3 (4.?.0-???????) | Lost |
-| OT3.4 (4.?.0-???????) | Lost |
-| OT3.5 (4.?.0-???????) | Lost |
-| OT4 (4.9.0-2671876) | Lost |
-| OT4.1 (4.9.0-???????) | Lost |
-| OT4.2 (4.9.0-???????) | Lost |
-| OT4.3 (4.9.0-???????) | Lost |
-| OT4.4 (4.9.0-???????) | Lost |
-| OT4.5 (4.9.0-???????) | Lost |
-| OT5 (4.9.0-2682676) | Lost |
-| OT5.1 (4.9.0-???????) | Lost |
-| OT5.2 (4.9.0-???????) | Lost |
-| OT5.3 (4.9.0-???????) | Lost |
-| OT5.4 (4.9.0-???????) | Lost |
-| OT5.5 (4.9.0-2760281) | Lost |
-| OT6 (4.11.0-2801990) | Lost |
-| OT6.1 (4.1?.0-???????) | Lost |
-| OT6.2 (4.1?.0-???????) | Lost |
-| OT6.5 (4.12.0-2870186) (Windows, Windows) | https://drive.google.com/file/d/1SvrhOV72Qvv9mwI3RLMo2rOLGwAtRlNi/view | https://public.simplyblk.xyz/OT0.6.5.zip | https://archive.thedatadungeon.com/fortnite_2017/builds/2016-02-26_microsoft_windows_prototype/fortnite_alpha.rar |
-| OT6.6 (4.12.0-2898795) | Lost |
-| OT6.7 (4.12.0-2919741) | Lost |
-| OT7 (4.12.0-3012530) | Lost |
-| OT8 (4.13.0-3062755) | Lost |
-| OT8.1 (4.13.0-3114236) | Lost |
-| OT8.2 (4.13.0-3151232) | Lost |
-| OT9 (4.13.0-3169630) | Lost |
-| OT10 (4.14.0-3234896) | Lost |
-| OT10.1 (4.14.0-3240987) | Lost |
-| OT10.?? (4.16.0-3307419) (PS4, PS4) | https://drive.google.com/file/d/125ffoQu9CQ9rujuWS-END2xtIH7_l-Ob/view | https://archive.org/details/fortnite-mailapp-ot10 |
-| OT11.?? (4.16.0-3471515) (Windows) | https://archive.thedatadungeon.com/fortnite_2017/builds/2017-06-07_microsoft_windows_ot-11/fortnite_ot11_pc.zip | https://archive.org/details/fortnite-ot-11-pc |
-| OT11 (4.16.0-3472679) (PS4, PS4) | https://drive.google.com/file/d/1K8c8kFma3rn9SkBM4GFl5qZN0k2GaQdB/view | https://archive.org/compress/fortnite_ot11_ps4 |
-| OT11.0.?? (4.16.0-3472997) | Unavailable |
-| OT11.0.3? (4.16.0-3481474) | Lost |
-| OT11.0.3.1 (4.16.0-3481499) | Lost |
-| OT11.0.5 (4.16.0-3484806) | Lost |
-| OT11.1 (4.16.0-???????) | Lost |
-| OT11.?? (4.16.0-3502004) | Lost |
-| OT11.?? (4.16.0-3502071) | Lost |
+
 
 ## Pre-Season
 | Build | Download | Alternative Download | Alternative Download
@@ -417,14 +378,14 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | 21.10-CL-20777648 | Lost |
 | 21.10-CL-20829351 | Unavailable |
 | 21.20-CL-20890025 | Unavailable |
-| 21.20-CL-20978394 | https://cdn.cbn.lol/21.20 |
+| 21.20-CL-20978394 | https://cdn.cbn.lol/21.20 | https://fn-builds.repressoh.it/21.20-CL-20978394.7z
 | 21.20-CL-21035704 | Unavailable |
 | 21.30-CL-21102315 | Lost |
-| 21.30-CL-21155462 | Unavailable |
+| 21.30-CL-21155462 | https://fn-builds.repressoh.it/21.30-CL-21155462.7z |
 | 21.40-CL-21348157 | Lost |
-| 21.40-CL-21407327 | Unavailable |
-| 21.50-CL-21657658 | https://public.simplyblk.xyz/21.50.zip |
-| 21.51-CL-21735703 | https://public.simplyblk.xyz/21.51.7z |
+| 21.40-CL-21407327 | https://fn-builds.repressoh.it/21.40-CL-21407327.7z |
+| 21.50-CL-21657658 | https://public.simplyblk.xyz/21.50.zip | https://fn-builds.repressoh.it/21.50.zip
+| 21.51-CL-21735703 | https://public.simplyblk.xyz/21.51.7z | https://fn-builds.repressoh.it/21.51.7z
 
 ## Season 22
 | Build | Download | Alternative Download | Alternative Download
@@ -432,45 +393,45 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | 22.00-CL-22026835 | Lost |
 | 22.00-CL-22072684 | Lost |
 | 22.00-CL-22107157 | Lost |
-| 22.00-CL-22149829 | https://public.simplyblk.xyz/22.00.7z |
+| 22.00-CL-22149829 | https://public.simplyblk.xyz/22.00.7z | https://fn-builds.repressoh.it/22.00.7z
 | 22.10-CL-22240570 | Lost |
-| 22.10-CL-22429549 | Unavailable |
+| 22.10-CL-22429549 | https://fn-builds.repressoh.it/22.10-CL-22429549.7z |
 | 22.20-CL-22523251 | Lost |
 | 22.20-CL-22600409 | Unavailable |
 | 22.30-CL-22803135 | Unavailable |
-| 22.40-CL-23070899 | https://gofile.io/d/uwbcWq | https://ai-repertoire.com/download.html?token=1d051e390ae1498581d41c46541a6b6b |
+| 22.40-CL-23070899 | https://gofile.io/d/uwbcWq | https://ai-repertoire.com/download.html?token=1d051e390ae1498581d41c46541a6b6b | https://fn-builds.repressoh.it/22.40.rar
 
 ## Season 23
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 23.00-CL-23344627 | https://public.simplyblk.xyz/23.00.7z |
-| 23.10-CL-23443094 | https://public.simplyblk.xyz/23.10.rar |
+| 23.00-CL-23344627 | https://public.simplyblk.xyz/23.00.7z | https://fn-builds.repressoh.it/23.00.7z
+| 23.10-CL-23443094 | https://public.simplyblk.xyz/23.10.rar | https://fn-builds.repressoh.it/23.10-CL-23443094.rar
 | 23.10-CL-23572221 | Unavailable |
 | 23.20-CL-23659353 | Unavailable |
 | 23.20-CL-23783097 | Unavailable |
 | 23.30-CL-23901854 | Lost |
-| 23.30-CL-23986860 | Unavailable |
-| 23.40-CL-24087481 | https://public.simplyblk.xyz/23.40.zip |
+| 23.30-CL-23986860 | Unavailable | https://fn-builds.repressoh.it/23.30.zip
+| 23.40-CL-24087481 | https://public.simplyblk.xyz/23.40.zip | https://fn-builds.repressoh.it/23.40.zip
 | 23.50-CL-24376996 | Lost |
-| 23.50-CL-24441668 | https://public.simplyblk.xyz/23.50.zip | https://titanac.xyz/23.50.rar | https://r2.kovryn.xyz/23.50.rar |
+| 23.50-CL-24441668 | https://public.simplyblk.xyz/23.50.zip | https://titanac.xyz/23.50.rar | https://r2.kovryn.xyz/23.50.rar | https://fn-builds.repressoh.it/23.50.zip
 
 ## Season 24
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 24.00-CL-24554913 | https://gofile.io/d/GOSBx4 |
+| 24.00-CL-24554913 | https://gofile.io/d/GOSBx4 | https://fn-builds.repressoh.it/24.00-CL-24554913.zip
 | 24.01-CL-24672685 | Unavailable |
 | 24.01-CL-24757023 | Lost |
 | 24.10-CL-24770548 | Unavailable |
 | 24.10-CL-24903530 | Unavailable |
-| 24.20-CL-24939793 | https://r2.ploosh.dev/24.20.zip | https://r2.kovryn.xyz/24.20.zip | https://cdn.cbn.lol/24.20 |
+| 24.20-CL-24939793 | https://r2.ploosh.dev/24.20.zip | https://r2.kovryn.xyz/24.20.zip | https://cdn.cbn.lol/24.20 | https://fn-builds.repressoh.it/24.20-CL-24939793.rar
 | 24.20-CL-25019967 | Unavailable |
 | 24.20-CL-25058254 | Unavailable |
-| 24.20-CL-25156858 | https://gofile.io/d/cw0eee |
+| 24.20-CL-25156858 | https://gofile.io/d/cw0eee | https://fn-builds.repressoh.it/24.20-CL-25156858.zip
 | 24.30-CL-25210886 | Unavailable |
 | 24.30-CL-25347382 | Unavailable |
 | 24.40-CL-25420516 | Unavailable |
 | 24.40-CL-25521145 | Unavailable |
-| 24.40-CL-25595478 | https://gofile.io/d/cw0eee |
+| 24.40-CL-25595478 | https://gofile.io/d/cw0eee | https://fn-builds.repressoh.it/24.40-CL-25595478.zip
 
 ## Season 25
 | Build | Download | Alternative Download | Alternative Download
@@ -478,8 +439,7 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | 25.00-CL-25784668 | Unavailable |
 | 25.00-CL-25909622 | Unavailable |
 | 25.10-CL-26000959 | Unavailable |
-| 25.11-CL-26171015 | https://r2.ploosh.dev/25.11.zip |
-| 25.11-CL-???????? | https://fn-builds.repressoh.it/25.11.zip
+| 25.11-CL-26171015 | https://r2.ploosh.dev/25.11.zip | https://fn-builds.repressoh.it/25.11.zip
 | 25.20-CL-26474516 | Unavailable |
 | 25.20-CL-26629111 | https://ai-repertoire.com/download.html?token=8b7b7fe68d71489ca7222738f0e5f85e | 
 | 25.20-CL-???????? | https://fn-builds.repressoh.it/25.20.zip
@@ -500,7 +460,7 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 |--------------|---------------|---------------|---------------|
 | 27.00-CL-29072304 | https://cdn.cbn.lol/27.00 | https://fn-builds.repressoh.it/27.00-CL-29072304.zip
 | 27.10-CL-29552510 | https://cdn.cbn.lol/27.10 | https://fn-builds.repressoh.it/27.10-CL-29552510.zip
-| 27.11-CL-29739262 | https://gofile.io/d/MfJHqg | https://pub-220306d029514fbba26c1ffc2ef76e3e.r2.dev/27.11.rar (Less GB than the other) | https://fn-builds.repressoh.it/27.11-CL-29739262.7z
+| 27.11-CL-29739262 | https://gofile.io/d/MfJHqg | https://pub-220306d029514fbba26c1ffc2ef76e3e.r2.dev/27.11.rar (Less GB than the others) | https://fn-builds.repressoh.it/27.11-CL-29739262.7z
 
 ## Season 28
 | Build | Download | Alternative Download | Alternative Download
@@ -526,8 +486,7 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | 29.30-CL-32982357 | Unavailable |
 | 29.40-CL-33291686 | https://fn-builds.repressoh.it/29.40-CL-33291686.rar |
 | 29.40-CL-33502036 | https://fn-builds.repressoh.it/29.40-CL-33502036.rar |
-| 29.40-CL-33629566 | Unavailable |
-| 29.40-CL-???????? | https://fn-builds.repressoh.it/29.40.rar
+| 29.40-CL-33629566 | https://fn-builds.repressoh.it/29.40.rar |
 
 ## Season 30
 | Build | Download | Alternative Download | Alternative Download
@@ -652,26 +611,46 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 | QAGame UE5.2 | https://archive.org/download/QAGame/QAGame.rar |
 | Main-CL-21452241 | https://r2.ploosh.dev/%2B%2BFortnite%2BMain-CL-21452241-PF-ed8a.zip |
 | ++Fortnite+Release-Cert-CL-3472997-XboxOne (31.10 Dev) | Unavailable |
-
-<details>
-  <summary><h2>Milestones</h2></summary>
-
-10 Stars, April 7th, 2025
-
-20 Stars, May 4th, 2025
-
-30 Stars, June 16th, 2025
-
-1,000 Daily Views, June 25th, 2025
-
-40 Stars, June 26th, 2025
-
-50 Stars, August 8th, 2025
-
-60 Stars, October 26th, 2025
-
-70 Stars, December 2nd, 2025
-
-</details>
-
-❤️
+| OT1 (4.?.0-???????) | Lost |
+| OT1 (4.7.0-2479600) | Lost |
+| OT3 (4.8.0-2604755) | Lost |
+| OT3.1 (4.?.0-???????) | Lost |
+| OT3.2 (4.?.0-???????) | Lost |
+| OT3.3 (4.?.0-???????) | Lost |
+| OT3.4 (4.?.0-???????) | Lost |
+| OT3.5 (4.?.0-???????) | Lost |
+| OT4 (4.9.0-2671876) | Lost |
+| OT4.1 (4.9.0-???????) | Lost |
+| OT4.2 (4.9.0-???????) | Lost |
+| OT4.3 (4.9.0-???????) | Lost |
+| OT4.4 (4.9.0-???????) | Lost |
+| OT4.5 (4.9.0-???????) | Lost |
+| OT5 (4.9.0-2682676) | Lost |
+| OT5.1 (4.9.0-???????) | Lost |
+| OT5.2 (4.9.0-???????) | Lost |
+| OT5.3 (4.9.0-???????) | Lost |
+| OT5.4 (4.9.0-???????) | Lost |
+| OT5.5 (4.9.0-2760281) | Lost |
+| OT6 (4.11.0-2801990) | Lost |
+| OT6.1 (4.1?.0-???????) | Lost |
+| OT6.2 (4.1?.0-???????) | Lost |
+| OT6.5 (4.12.0-2870186) (Windows, Windows) | https://drive.google.com/file/d/1SvrhOV72Qvv9mwI3RLMo2rOLGwAtRlNi/view | https://public.simplyblk.xyz/OT0.6.5.zip | https://archive.thedatadungeon.com/fortnite_2017/builds/2016-02-26_microsoft_windows_prototype/fortnite_alpha.rar |
+| OT6.6 (4.12.0-2898795) | Lost |
+| OT6.7 (4.12.0-2919741) | Lost |
+| OT7 (4.12.0-3012530) | Lost |
+| OT8 (4.13.0-3062755) | Lost |
+| OT8.1 (4.13.0-3114236) | Lost |
+| OT8.2 (4.13.0-3151232) | Lost |
+| OT9 (4.13.0-3169630) | Lost |
+| OT10 (4.14.0-3234896) | Lost |
+| OT10.1 (4.14.0-3240987) | Lost |
+| OT10.?? (4.16.0-3307419) (PS4, PS4) | https://drive.google.com/file/d/125ffoQu9CQ9rujuWS-END2xtIH7_l-Ob/view | https://archive.org/details/fortnite-mailapp-ot10 |
+| OT11.?? (4.16.0-3471515) (Windows) | https://archive.thedatadungeon.com/fortnite_2017/builds/2017-06-07_microsoft_windows_ot-11/fortnite_ot11_pc.zip | https://archive.org/details/fortnite-ot-11-pc |
+| OT11 (4.16.0-3472679) (PS4, PS4) | https://drive.google.com/file/d/1K8c8kFma3rn9SkBM4GFl5qZN0k2GaQdB/view | https://archive.org/compress/fortnite_ot11_ps4 |
+| OT11.0.?? (4.16.0-3472997) | Unavailable |
+| OT11.0.3? (4.16.0-3481474) | Lost |
+| OT11.0.3.1 (4.16.0-3481499) | Lost |
+| OT11.0.5 (4.16.0-3484806) | Lost |
+| OT11.1 (4.16.0-???????) | Lost |
+| OT11.?? (4.16.0-3502004) | Lost |
+| OT11.?? (4.16.0-3502071) | Lost |
