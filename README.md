@@ -1,5 +1,7 @@
 Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add build links that have not been added by llama, but i'll keep updating this.
 
+the other stuff section has been moved to the 2nd branch
+
 ## Credits to:
 - Llamaqwerty for some of the main builds added
 - jalen for most the builds that are on here (i think, im still not sure correct me if im wrong)
