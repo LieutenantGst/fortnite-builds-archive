@@ -9,7 +9,7 @@ the other stuff section has been moved to the 2nd branch, if you can find it jus
 - electric_dragon for builds 38.10, 38.00
 - fn-builds.repressoh.it for a LOT of lost builds which could not be found
 - A Real Potato for build 31.40
-- ploosh.dev and ploosh (not sure if their the same person) for builds, ploosh.dev:26.30-CL-28688692, Main-CL-21452241, ploosh:26.30-CL-28798412
+- ploosh.dev and ploosh (not sure if their the same person) for builds, ploosh.dev: 26.30-CL-28688692, Main-CL-21452241, ploosh: 26.30-CL-28798412
 
 
 
