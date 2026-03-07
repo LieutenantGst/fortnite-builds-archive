@@ -3,8 +3,8 @@ Welcome, this is a fork of llamaqwerty fortnite build archive, im just gonna add
 the other stuff section has been moved to the 2nd branch, if you cant find it just press this link, https://github.com/razvr72-max/fortnite-builds-archive/tree/Other
 
 ## Note:
-- None of these builds that are here aren't mine, credit goes to the people that made these download links
-
+- Credits go Ka Pum on discord for his Fortnite China Archive
+- More credits coming soon
 # Errors
 - If i made any errors like putting builds in the wrong spot make a issue for it and tell me where its supposed to be and i'll put it in the right spot
 
