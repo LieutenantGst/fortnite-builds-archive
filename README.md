@@ -89,7 +89,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 4.40.1 (4.4-CL-4127312) | https://public.simplyblk.xyz/4.4.1.rar | https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view |
 | 4.4.X (4.4.x-CL-4132537) | Lost |
 | 4.50 (4.5-CL-4159770) | https://public.simplyblk.xyz/4.5.rar | https://builds.rebootfn.org/4.5.rar |
-| 4.50.1 (4.5-CL-4166199) | https://drive.google.com/file/d/1uZ2IO1aY41HmWgq-hb-eyWtXnomkj0nc/view |
+| 4.50.1 (4.5-CL-4166199) | https://drive.google.com/file/d/1uZ2IO1aY41HmWgq-hb-eyWtXnomkj0nc/view | https://drive.usercontent.google.com/download?id=1uZ2IO1aY41HmWgq-hb-eyWtXnomkj0nc&export=download&authuser=0&confirm=t&uuid=8eb7003a-f47a-4504-b273-473dc03044c7&at=AGN2oQ33H6PLtlygxYLcI9XPFa1u%3A1772879758174
 
 ## Season 5
 | Build | Download | Alternative Download | Alternative Download
