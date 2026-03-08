@@ -592,7 +592,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | Build | Download | Alternative Download | Alternative Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|---------------|---------------|
 | 38.00-CL-47291259 | https://ai-repertoire.com/download.html?token=802ccf9aa26c4acc96ead076a7adb789 | https://archive.org/download/fn-v38-archive/38.00-CL-47291259.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47291259.zip | https://fn-builds.repressoh.it/38.00-CL-47291259.zip
-| 38.00-CL-47722112 | https://ai-repertoire.com/download.html?token=3c27db31644f435ebee692b3321135cb | https://archive.org/download/fn-v38-archive/38.00-CL-47722112.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47722112.zip | https://fn-builds.repressoh.it/38.00-CL-47722112.zip
+| 38.00-CL-47722112 | https://ai-repertoire.com/download.html?token=3c27db31644f435ebee692b3321135cb | https://archive.org/download/fn-v38-archive/38.00-CL-47722112.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.00-CL-47722112.zip | https://fn-builds.repressoh.it/38.00-CL-47722112.zip | https://paris-001.ai-repertoire.com:5001/internal/decrypt?token=eyJib2R5Ijoie1wia2V5XCI6XCI4cGZWZ09MUDhmYWl5R1ZzQXJ5WGtIakZIZWh0RzRjdFBsQTI5NjhkQjNzPVwiLFwiaXZcIjpcInl2MDlkMUdtV05ka3VjbjhcIixcInRhZ1wiOlwiWEt4RUV5NjZCZkdERTI1V2hZenBmZz09XCIsXCJwYXRoXCI6XCJmaWxlcy83ZS82OTIzOGM4YzFkMWQyMTJmNzdlNGI0N2VfX19Gb3J0bml0ZV9SZWxlYXNlLTM4LjExLUNMLTQ4MzkwODI4LnppcC5lbmNcIixcImZpbGVuYW1lXCI6XCIrK0ZvcnRuaXRlK1JlbGVhc2UtMzguMTEtQ0wtNDgzOTA4MjguemlwXCJ9Iiwic2lnIjoiMTMwYzdiMzA4NjhmNzVkMjE5NjE2NTM1ZTBmZDA3NTZmNzViNjMxYjQxNjNhMDQxNjkyYzk5ZTMwODZhODEyYiJ9
 | 38.10-CL-47888945 | https://ai-repertoire.com/download.html?token=d459e7cf45f941e5856b22256d0f801a | https://archive.org/download/fn-v38-archive/38.10-CL-47888945.zip | https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.10-CL-47888945.zip | https://fn-builds.repressoh.it/38.10-CL-47888945.zip
 | 38.11-CL-48390828 | https://ai-repertoire.com/download.html?token=e2cbf7bca4024b17919f74eef72128c4 | [1st Alternative Download](https://ai-repertoire.com/download.html?token=fa347d59525f42c8a88599e5ce3848ea) | [2nd Alternative Download](https://archive.org/download/fn-v38-archive/38.11-CL-48390828.zip) | [3rd Alternative Download](https://dn721500.ca.archive.org/0/items/fn-v38-archive/38.11-CL-48390828.zip) | [4th Alternative Download](https://fn-builds.repressoh.it/38.11-CL-48390828.zip)
 
@@ -600,15 +600,15 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 39.00-CL-48444883 | https://archive.org/download/fn-v39-archive/39.00-CL-48444883.zip | https://cold-na-phx-5.gofile.io/download/web/073f610e-e5b0-4df7-82a5-2f89ab2d4a18/v39.00-CL-48444883.zip 
-| 39.00-CL-48801071| https://archive.org/download/fn-v39-archive/39.00-CL-48801071.zip
+| 39.00-CL-48801071| https://archive.org/download/fn-v39-archive/39.00-CL-48801071.zip | https://ia800105.us.archive.org/0/items/fn-v39-archive/39.00-CL-48801071.zip
 | 39.10-CL-48971054 | https://archive.org/download/fn-v39-archive/39.10-CL-48971054.zip | https://pastabillites.to/d/d3l3pn7cmhwn?v=s3GGffN356lTbJxaUPxVwFWbAsfmMbj1oI_1qHHMycku8arEiurKnstdndNngm9KDj2JRahOcMHgWSRBLUk4DfcuYTKoJXrbppReupTTlXqpAtKpprmHGgsH6_x2ww
-| 39.11-CL-CL-49241099 | https://archive.org/download/fn-v39-archive/39.11-CL-49241099.zip
+| 39.11-CL-CL-49241099 | https://archive.org/download/fn-v39-archive/39.11-CL-49241099.zip | https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.11-CL-49241099.zip
 | 39.11-CL-49242330 | https://archive.org/download/fn-v39-archive/39.11-CL-49242330.zip | https://pastabillites.to/d/onbragq0eyr6?v=j86RrhrxqPiiGcidWd6AtaIZlU_GotyXKEJYxgglnB55CrTak8DRfGfNfFbV6_3Pdinzf4S1y8cHRvnlaYcTHdB6napRDJ7jaARKPdfzWku631b9Tr6rZHwb4j9j
 | 39.20-CL-49564179 | https://archive.org/download/fn-v39-archive/39.20-CL-49564179.zip | https://store-na-phx-1.gofile.io/download/web/29911236-fa7a-457d-9a86-0c025d8525c8/39.20-CL-49564179.zip
 | 39.30-CL-49874243 | https://archive.org/download/fn-v39-archive/39.30-CL-49874243.zip | https://store-na-phx-1.gofile.io/download/web/6e88416a-d452-4a58-8e8d-4f4d2f17cf74/39.30-CL-49874243.zip
-| 39.30-CL-50141518 | https://archive.org/download/fn-v39-archive/39.30-CL-50141518.zip
+| 39.30-CL-50141518 | https://archive.org/download/fn-v39-archive/39.30-CL-50141518.zip | https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.30-CL-50141518.zip
 | 39.40-CL-50577083 | https://pastabillites.to/d/b07n6bokfyw4?v=wSJqG4-dVNkSUJb4Iw0PrU32VzeUo7yUxiEGp67nyWNc_9dVrNFn8hnNceUr8EglN9kxtgFkAXHynPNzPc2BMBfsju51cEz-7TT9zdpH1i7MG9I3ivq1GI7U3hkb6Q
-| 39.40-CL-50341043 | https://archive.org/download/fn-v39-archive/39.40-CL-50341043.zip
+| 39.40-CL-50341043 | https://archive.org/download/fn-v39-archive/39.40-CL-50341043.zip | https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.40-CL-50341043.zip
 | 39.50-CL-50854790 | https://archive.org/download/fn-v39-archive/39.50-CL-50854790.zip | https://pastabillites.to/d/2qzcb3d27h5e?v=ZgVywtaCX3eYLzGYQZMxNhk3DBgaRG1nXY2CmV5l2wSs3qOYZ035tSK_gmJ1Xv9_Vl7TH9XkkPjZnn8qBuM8uh56BvsnlG13DuJ72JjW2Ha0F2AfisSe5ixivMcVwQ
 | 39.51-CL-51287198 | https://transfer.it/t/MXp35FlDwZpZ |
 
