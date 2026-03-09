@@ -617,3 +617,4 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 40.00-CL???????? | shit haven't even came out yet
+| 40.00-CL???????? | shit haven't even came out yet
