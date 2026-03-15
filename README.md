@@ -73,7 +73,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
 | 35.20-CL-42911808 | Manifest Available |
-| 35.10-CL-42906078 | Manifest Available |
+| 35.10-CL-42906078 | https://archive.org/download/fn-v35-archive/35.10-CL-42906078.zip |
 | 35.10-CL-42696140 | Manifest Available |
 | 35.10-CL-42476511 | https://archive.org/download/fn-v35-archive/35.10-CL-42476511.zip |
 | 35.00-CL-42223143 | https://archive.org/download/fn-v35-archive/35.00-CL-42223143.zip |
