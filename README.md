@@ -54,7 +54,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 37.10-CL-45566377 | https://archive.org/download/fn-v37-archive-0/37.10-CL-45566377.zip |
 | 37.10-CL-45056983 | https://archive.org/download/fn-v37-archive-0/37.10-CL-45056983.zip |
 | 37.00-CL-44765404 | https://archive.org/download/fn-v37-archive-0/37.00-CL-44765404.zip |
-| 37.00-CL-44501951 | Manifest Available |
+| 37.00-CL-44501951 | I'll add it soon i just accidentlly deleted from my PC |
 | 37.00-CL-33501951 | https://archive.org/download/fn-v37-archive-0/37.00-CL-33501951.zip |
 
 ## Chapter 6 Season  3
@@ -72,7 +72,7 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 ## Chapter 6 Season  MS1 (Chapter 6 Galactic Battle)
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 35.20-CL-42911808 | Manifest Available |
+| 35.20-CL-42911808 | https://archive.org/download/fn-v35-archive/35.20-CL-42911808.zip |
 | 35.10-CL-42906078 | https://archive.org/download/fn-v35-archive/35.10-CL-42906078.zip |
 | 35.10-CL-42696140 | https://archive.org/download/fn-v35-archive/35.10-CL-42696140.zip |
 | 35.10-CL-42476511 | https://archive.org/download/fn-v35-archive/35.10-CL-42476511.zip |
@@ -82,12 +82,12 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 ## Chapter 6 Season  2
 | Build | Download | Alternative Download | Alternative Download
 |--------------|---------------|---------------|---------------|
-| 34.40-CL-41753727 | https://cold7.gofile.io/download/web/664392ee-3a98-490d-bb87-18b865c9a784/v34.40-CL-41753727.rar |
+| 34.40-CL-41753727 | https://archive.org/download/34.10-cl-40567068/34.40-CL-41753727.rar |  |
 | 34.30-CL-41588354 | Manifest Available |
-| 34.30-CL-41387772 | Manifest Available |
-| 34.21-CL-41092960 | Manifest Available |
-| 34.20-CL-40965447 | Manifest Available |
-| 34.10-CL-40567068 | https://archive.org/download/34.10-cl-40567068/34.10-CL-40567068.zip | https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view |
+| 34.30-CL-41387772 | https://archive.org/download/34.10-cl-40567068/34.30-CL-41387772.zip |
+| 34.21-CL-41092960 | https://archive.org/download/34.10-cl-40567068/34.21-CL-41092960.zip |
+| 34.20-CL-40965447 | https://archive.org/download/34.10-cl-40567068/34.20-CL-40965447.zip |
+| 34.10-CL-40567068 | https://archive.org/download/34.10-cl-40567068/34.10-CL-40567068.zip | https://drive.google.com/file/d/19Deve2k8YjZ6qZCcNAKzcf5yxqwZY_WG/view |`
 | 34.00-CL-40446427 | https://fn-builds.repressoh.it/34.00-CL-40446427.rar |
 | 34.00-CL-40398515 | Unavailable |
 | 34.00-CL-40228973 | Unavailable |
