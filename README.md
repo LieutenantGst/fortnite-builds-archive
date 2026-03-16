@@ -1,7 +1,7 @@
 This is my fork of the Llamaqwerty and Helix Build archive
 
 ## Note:
-- Credits go to Ka Pum on Discord for his Fortnite China Archive (idk where tht is)
+- Credits go to Ka Pum on Discord for his Fortnite China Archive
 - Credits to ploosh for many builds here, but 2 specifically are 26.30-28688692 and 26.30-28509302.
 - Credits go to Pak for many OG builds and some recent ones as well.
 - Credits go to ElectricArchive for s37 builds and other builds as well like s38, s39, s36, s35.
