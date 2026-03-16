@@ -28,9 +28,9 @@ the other stuff section has been moved to the 2nd branch, if you cant find it ju
 | 39.30-CL-49874243 | https://archive.org/download/fn-v39-archive/39.30-CL-49874243.zip | https://store-na-phx-1.gofile.io/download/web/6e88416a-d452-4a58-8e8d-4f4d2f17cf74/39.30-CL-49874243.zip
 | 39.20-CL-49564179 | https://archive.org/download/fn-v39-archive/39.20-CL-49564179.zip | https://store-na-phx-1.gofile.io/download/web/29911236-fa7a-457d-9a86-0c025d8525c8/39.20-CL-49564179.zip
 | 39.11-CL-49242330 | https://archive.org/download/fn-v39-archive/39.11-CL-49242330.zip | https://archive.org/download/39.11-cl-49242330/39.11-CL-49242330.zip
-| 39.11-CL-49241099 | https://archive.org/download/fn-v39-archive/39.11-CL-49241099.zip | https://dn721802.ca.archive.org/0/items/fn-v39-archive/39.11-CL-49241099.zip
+| 39.11-CL-49241099 | https://archive.org/download/fn-v39-archive/39.11-CL-49241099.zip | 
 | 39.10-CL-48971054 | https://archive.org/download/fn-v39-archive/39.10-CL-48971054.zip | https://pastabillites.to/d/d3l3pn7cmhwn?v=s3GGffN356lTbJxaUPxVwFWbAsfmMbj1oI_1qHHMycku8arEiurKnstdndNngm9KDj2JRahOcMHgWSRBLUk4DfcuYTKoJXrbppReupTTlXqpAtKpprmHGgsH6_x2ww
-| 39.00-CL-48801071| https://archive.org/download/fn-v39-archive/39.00-CL-48801071.zip | https://ia800105.us.archive.org/0/items/fn-v39-archive/39.00-CL-48801071.zip
+| 39.00-CL-48801071 | https://archive.org/download/fn-v39-archive/39.00-CL-48801071.zip | 
 | 39.00-CL-48444883 | https://archive.org/download/fn-v39-archive/39.00-CL-48444883.zip | https://cold-na-phx-5.gofile.io/download/web/073f610e-e5b0-4df7-82a5-2f89ab2d4a18/v39.00-CL-48444883.zip
 
 ## Chapter 6 Season MS2 (Chapter 6 The Simpsons)  
