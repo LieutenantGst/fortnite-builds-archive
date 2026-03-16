@@ -392,13 +392,13 @@ The other stuff section has been moved to the 2nd branch. If you can't find it j
 ## Chapter 2 Season 2
 | Build              | Download                                                                 | Alternative Download | Alternative Download | Event/Notes |
 |--------------------|--------------------------------------------------------------------------|----------------------|----------------------|-------------|
-| 12.61-CL-13498980  | https://public.simplyblk.xyz/12.61.zip                                   | https://saturn.nxa.app/12.61.zip |                      | **Pandora's Box / Doomsday Device live event** (May 2020) |
+| 12.61-CL-13498980  | https://public.simplyblk.xyz/12.61.zip                                   | https://saturn.nxa.app/12.61.zip |                      | **The Device (Doomsday Device / Midas' Masterplan) live event** (June 2020) |
 | 12.60-CL-13477524  | https://download.fn-archive.com/FortniteClient-12.60-CL-13477524.7z      |                      |                      | — |
 | 12.60-CL-13315662  | Lost                                                                     |                      |                      | — |
 | 12.50-CL-13193885  | Lost                                                                     |                      |                      | — |
 | 12.50-CL-13137020  | https://public.simplyblk.xyz/12.50.zip                                   | https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view |                      | — |
 | 12.50-CL-13044369  | Lost                                                                     |                      |                      | — |
-| 12.41-CL-12905909  | https://public.simplyblk.xyz/Fortnite%2012.41.zip                        | https://cdn.cbn.lol/12.41 | https://fentti.xyz/upload/12.41.zip | **The Device teaser / spy finale prep** (April 2020) |
+| 12.41-CL-12905909  | https://public.simplyblk.xyz/Fortnite%2012.41.zip                        | https://cdn.cbn.lol/12.41 | https://fentti.xyz/upload/12.41.zip | **Travis Scott's Astronomical concert** (April 2020) |
 | 12.40-CL-12837456  | https://public.simplyblk.xyz/12.40.rar                                   |                      |                      | — |
 | 12.30-CL-12624643  | Unavailable                                                              |                      |                      | — |
 | 12.30-CL-12493283  | Unavailable                                                              |                      |                      | — |
