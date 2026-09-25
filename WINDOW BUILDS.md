@@ -1,7 +1,7 @@
 ## Chapter 7 Season 2
 | Build             | Download | Alternative Download | Alternative Download | Event/Notes |
 |-------------------|----------|----------------------|----------------------|-------------|
-| 40.00-CL-514????? |          |                      |                      | None |
+| 40.00-CL-514????? |      https://dl.fortforge.co.uk/t/a62c580bf3e10fa0c903dfd0a7fa18e935c4d067b755c6dd    |                      |                      | None |
 
 ## Chapter 7 Season 1
 | Build              | Download | Alternative Download | Alternative Download | Event/Notes |
